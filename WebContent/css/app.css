@@ -30,24 +30,32 @@
 
 .contentDiv {
 	margin: 0 auto;
-	width: 25%;
+	width: 50%;
 	text-align: center;
 }
 
 .searchLabel {
-	font-size: 4em;	
+	font-size: 4em;
 }
 
 .searchBox {
 	-webkit-box-shadow: inset 2px 2px 2px 0px #dddddd;
-    -moz-box-shadow: inset 2px 2px 2px 0px #dddddd;
-    box-shadow: inset 2px 2px 2px 0px #dddddd;
-    height: 1em;
-    margin: 10px;
-    overflow: auto;
-    padding: 7px 10px;
-    width: 300px;    
-    font-family: tahoma;
-    font-size: 13px;
-    border: 1px solid #aaa;
+	-moz-box-shadow: inset 2px 2px 2px 0px #dddddd;
+	box-shadow: inset 2px 2px 2px 0px #dddddd;
+	height: 1em;
+	overflow: auto;
+	padding: 7px 10px;
+	width: 300px;
+	font-family: tahoma;
+	font-size: 13px;
+	border: 1px solid #aaa;
+}
+
+.searchButton {
+	height: 2.2em;
+	width: 4em;
+}
+
+.contentWrapper {
+	
 }
