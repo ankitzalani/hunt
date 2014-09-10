@@ -8,13 +8,3 @@ Angular JS
 MongoDB
 Maven
 
-
-<br/>
-Hunting strategies:
-Twitter
-News
-Facebook
-Google
-StackOverflow
-Dictionary
-
